@@ -1,1 +1,2 @@
-# Nikolaenko Victor
+# Rosatom Nikolaenko Victor
+# Python file
